@@ -1,0 +1,16 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>eab00035-64f3-4c7b-83be-edcd09d3f027</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.2</RuntimeVersion>
+    <RootNamespace>JongerenKansrijker</RootNamespace>
+    <WebRoot />
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Update="src\Medewerker.Class.php">
+      <SubType>Code</SubType>
+    </Content>
+  </ItemGroup>
+</Project>
